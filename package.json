@@ -5,7 +5,7 @@
 	"scripts": {
 		"start": "start-storybook -p 6006",
 		"dev": "vite",
-		"build": "build-storybook",
+		"build": "build-storybook -o docs",
 		"preview": "vite preview",
 		"storybook": "start-storybook -p 6006",
 		"build-storybook": "build-storybook"
